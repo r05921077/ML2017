@@ -3,7 +3,6 @@ from __future__ import print_function
 from scipy.misc import imsave
 import numpy as np
 import time
-from keras.applications import vgg16
 from keras import backend as K
 import matplotlib.pyplot as plt
 from keras.models import model_from_json
