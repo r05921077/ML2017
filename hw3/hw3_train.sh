@@ -1,1 +1,1 @@
-python hw3.py $1
+python3.5 hw3.py $1
