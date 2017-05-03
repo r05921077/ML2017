@@ -1,1 +1,1 @@
-python3.5 model.py $1 $2
+python3 model.py $1 $2
