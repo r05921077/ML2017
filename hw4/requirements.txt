@@ -1,4 +1,3 @@
 numpy
 sklearn
-csv
-sys
+scipy
