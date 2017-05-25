@@ -1,3 +1,5 @@
 numpy
 keras
 six
+h5py
+tensorflow
