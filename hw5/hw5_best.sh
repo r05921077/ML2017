@@ -1,0 +1,1 @@
+python rnn.py $1 $2
