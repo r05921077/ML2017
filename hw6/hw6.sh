@@ -1,1 +1,1 @@
-python hw6.py $1 $2
+python3.6 hw6.py $1 $2
