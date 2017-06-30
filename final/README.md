@@ -1,2 +1,2 @@
-run src/preprocess.sh to preprocess.  
-run src/main.py to reproduce.
+Change directory to src and run preprocess.sh to preprocess.  
+Change directory to src and run main.py to reproduce.
