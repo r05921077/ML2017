@@ -1,0 +1,2 @@
+stack like queue:大部分變快
+change cube structure:比較大的testcase才會比較快
